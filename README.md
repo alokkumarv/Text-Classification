@@ -7,10 +7,10 @@ Class Labels: 5 (business, entertainment, politics, sport, tech)
 
 # Files Description
 
-* dataset/dataset.csv: csv file containing "text" and "Category" as columns. "text" column represent news article and "Category" represents news category among business, entertainment, politics, sport, tech.
+* bbc-txt.csv: csv file containing "text" and "Category" as columns. "text" column represent news article and "Category" represents news category among business, entertainment, politics, sport, tech.
 
 
-* model/test.ipynb: jupyter notebook 
+* BBC Text Classification.ipynb: jupyter notebook 
 
 
 # Method
